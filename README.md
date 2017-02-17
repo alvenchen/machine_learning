@@ -1,3 +1,3 @@
 ##machine leaning
-#multivariate linear regression in house price predict
+1 multivariate linear regression in house price predict
 
